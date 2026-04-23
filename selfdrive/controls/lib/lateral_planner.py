@@ -15,7 +15,7 @@ from openpilot.selfdrive.controls.lib.lane_planner_2 import LanePlanner
 from collections import deque
 
 TRAJECTORY_SIZE = 33
-CAMERA_OFFSET = 0.02
+CAMERA_OFFSET = 0.01
 
 
 PATH_COST = 1.0
